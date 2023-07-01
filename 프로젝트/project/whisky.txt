@@ -1,0 +1,70 @@
+Bowmore 12|12|Islay|81.92|40.0|Smoky|Citric|Vanilla|70000
+Bowmore 15|15|Islay|83.95|43.0|Smoky|Sherried|Chocolate|145000
+Bowmore 18 deep & complex|18|Islay|86.75|43.0|Smoky|Sherried|Chocolate|240000
+Glendronach 12|12|Highlands|84.14|43.0|Sherried|Vanilla|Chocolate|100000
+Glendronach 15 Revival|15|Highlands|86.34|46.0|Sherried|Chocolate|Honey|240000
+Glendronach 18 Allardice|18|Highlands|88.57|46.0|Sherried|Chocolate|Old Wood|460000
+Glendronach 21 Parliament|21|Highlands|89.29|48.0|Sherried|Chocolate|Dried Fruit|520000
+Springbank 10|10|Campbeltown|86.90|46.0|Fresh Fruit|Citric|Honey|350000
+Springbank 15|15|Campbeltown|87.91|46.0|Sherried|Toasted|Chocolate|600000
+Longrow Peated|0|Campbeltown|84.25|46|Coal-gas|New Wood|Smoky|200000
+Longrow 18|18|Campbeltown|89.04|46|Citric|Fresh Fruit|Honey|1000000
+Hazelburn 10|10|Campbeltown|85.03|46|Citric|Malt Extract|New Wood|270000
+Glenfiddich 12|12|Speyside|78.67|40|Fresh Fruit|Honey|Vanilla|80000
+Glenfiddich 15|15|Speyside|82.04|40|Fresh Fruit|Dried Fruit|Old Wood|120000
+Glenfiddich 18|18|Speyside|83.06|40|Fresh Fruit|Chocolate|Honey|200000
+Glenfiddich 21|21|Speyside|85.06|40|Chocolate|Citric|Fragant|400000
+Glenmorangie 10|10|Highlands|80.04|40|Vanilla|Citric|Fresh Fruit|75000
+Glenmorangie Lasanta|12|Highlands|82.89|43|Dried Fruit|Fresh Fruit|Honey|105000
+Glenmorangie Quinta Ruban|14|Highlands|84.67|46|Chocolate|Dried Fruit|Sherried|120000
+Glenmorangie Signet|0|Highlands|87.83|46|Chocolate|Vanilla|Nutty|315000
+Glenlivet 12|12|Speyside|80.61|40|Fresh Fruit|Vanilla|Honey|74000
+Glenlivet 15|15|Speyside|81.68|40|Fresh Fruit|Vaniila|Citric|120000
+Glenlivet 18|18|Speyside|84.03|40|Hay-like|Dried Fruit|Chocolate|200000
+Glenscotia 10|10|Campbeltown|82.75|40|Fresh Fruit|New Wood|Citric|135000
+Glenscotia 15|15|Campbeltown|85.01|46|Old Wood|Dried Fruit|Chocolate|180000
+Glenscotia Victoriana|0|Campbeltown|87.07|54.2|Fresh Fruit|Dried Fruit|Chocolate|230000
+Balvenie Double wood|12|Speyside|81.87|40|Vanilla|Dried Fruit|Honey|120000
+Balvenie Caribbean cask|14|Speyside|83.40|43|Fresh Fruit|Vanilla|Honey|180000
+Glenallacie 8|8|Speyside|84.32|46|Dried Fruit|Sherried|New Wood|95000
+Glenallacie 10CS|10|Speyside|86.9|58.1|Chocolate|Dried Fruit|Fresh Fruit|170000
+Glenallacie 12|12|Speyside|84.37|46|Vanilla|Fresh Fruit|Dried Fruit|120000
+Glenallacie 15|15|Speyside|85.63|46|Sherried|Chocolate|Dried Fruit|200000
+Jonnie walker Black|12|Scoth|75.56|40|Vanilla|Chocolate|Malt Extract|45000
+Jonnie walker Green|15|Scoth|82.63|43|Malt Extract|Fresh Fruit|New Wood|90000
+Jonnie walker Blue|0|Scoth|83.51|40|Old Wood|Dried Fruit|Sherried|250000
+Macallan 12 Sherry Cask|12|Speyside|84.75|40|Sherried|Dried Fruit|Chocolate|160000
+Macallan 12 Double Cask|12|Speyside|82.13|40|Sherried|Vanilla|Fresh Fruit|110000
+Macallan 18 Sherry Cask|18|Speyside|90.12|43|Sherried|Chocolate|Dried Fruit|700000
+Macallan Enigma|0|Speyside|87.33|44.9|Old wood|Sherried|Dried Fruit|450000
+Lagavulin 8|8|Islay|84.42|48|Smoky|Vanilla|Medicinal|100000
+Lagavulin 16|16|Islay|87.03|43|Smoky|Medicinal|Old wood|210000
+Ardbeg 10|10|Islay|86.08|46|Smoky|Citric|Medicinal|100000
+Ardbeg An Oa|0|Islay|84.36|46.6|Smoky|Citric|Medicinal|110000
+Ardbeg Uigeadail|0|Islay|88.83|54.2|Smoky|Sherried|Dried Fruit|170000
+Ardbeg Corryvreckan|0|Islay|88.10|57.1|Smoky|Chocolate|Medicinal|180000
+Laphroaig 10|10|Islay|83.14|40|Smoky|Medicinal|Leathery|80000
+Laphroaig Lore|0|Islay|86.13|48|Smoky|Leathery|Sherried|230000
+Laphroaig Quater Cask|0|Islay|84.86|48|Smoky|Medicinal|Citric|90000
+Arran 10|10|Islands|84.46|46|Citric|Vanilla|Fresh Fruit|90000
+Arran 18|18|Islands|87.64|46|Citric|Vanilla|Fresh Fruit|420000
+Arran Sherry Cask|0|Islands|85.02|55.8|Dried Fruit|Sherried|Chocolate|165000
+Caol ila 12|12|Islay|83.52|43|Smoky|Citric|Fresh Fruit|90000
+Caol ila 18|18|Islay|86.45|43|Smoky|Citric|New Wood|350000
+Caol ila Distillers Edition|0|Islay|85.35|43|Smoky|Citric|Fresh Fruit|165000
+Caol ila Moch|0|Islay|82.79|43|Smoky|Citric|Sweaty|85000
+Oban 14|14|Highlands|81.62|43|Citric|Fresh Fruit|Honey|120000
+Glen Grant 10|10|Speyside|81.15|40|Fresh Fruit|Citric|Fragant|60000
+Glen Grant 12|12|Speyside|81.58|43|Honey|Fresh Fruit|Vanilla|75000
+Glen Grant 15|15|Speyside|84.62|50|Fresh Fruit|Vanilla|Chocolate|140000
+Talisker 10|10|Islands|84.33|45.8|Smoky|Citric|Coal-gas|70000
+Talisker 18|18|Islands|88.53|54.8|Smoky|Sherried|Medicinal|400000
+Kilchoman Machir Bay|0|Islay|85.90|46|Smoky|Mossy|Vanilla|104000
+Kilchoman Sanig|0|Islay|85.71|46|Smoky|Sherried|Coal-gas|120000
+Dalmore 12|12|Highlands|80.69|40|Dried Fruit|leathery|Malt Extract|120000
+Dalmore 12 Sherry cask|12|Highlands|85.60|43|Chocolate|Citric|Fresh Fruit|175000
+Dalmore 15|15|Highlands|82.88|40|Dried Fruit|Old Wood|Sherried|200000
+Benromach 10|10|Speyside|84.13|43|Sherried|Smoky|Dried Fruit|70000
+Benromach 15|15|Speyside|85.73|43|Leathery|Old Wood|Chocolate|160000
+Auld Goonsy|12|Highlands|86.80|57.60|Sherried|Old Wood|Dried Fruit|170000
+Kavalan|10|Taiwan|87.90|58.00|Sherried|Old Wood|Dried Fruit|300000
